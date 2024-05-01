@@ -383,6 +383,7 @@ article .icon {
 /* CONTACT */
 
 #contact {
+  position: relative;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -419,6 +420,8 @@ article .icon {
 .email-icon {
   height: 2.5rem;
 }
+
+
 
 /* FOOTER SECTION */
 
