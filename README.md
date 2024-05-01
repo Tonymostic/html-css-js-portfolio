@@ -1,0 +1,1 @@
+This project focuses on creating a personal website portfolio to display my future and current projects. Through this project I've learned more about front and back end development, and it's been a fun way to start creating and designing using code.
